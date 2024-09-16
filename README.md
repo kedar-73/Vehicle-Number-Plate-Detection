@@ -28,3 +28,5 @@ To install and run the project, follow these steps:
 - Preprocesses the input image to improve the clarity of number plates.
 - Uses Tesseract-OCR to extract text from the number plates.
 - Outputs the extracted number plate text along with processed images for verification.
+
+## Made by-Kedar Singh
